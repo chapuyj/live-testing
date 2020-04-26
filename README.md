@@ -30,5 +30,5 @@ watch $folder $everySeconds
 ## Possible improvements
 
 - Watching for file date changes and sleeping with the same amount of time can lead to some misses.
-- Debouce / Throttle execution of tests if there are changes.
+- Debounce / Throttle execution of tests if there are changes.
 - Add a configuration file or parsing arguments for timer, watched folder, unit test command. 

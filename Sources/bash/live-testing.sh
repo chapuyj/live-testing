@@ -10,7 +10,7 @@ runTests() {
 
 watch() {
 
-    echo "Watching folder '$1' every $2 secondss."
+    echo "Watching folder '$1' every $2 seconds."
 
 	while [[ true ]]
 	do
